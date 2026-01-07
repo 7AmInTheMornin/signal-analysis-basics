@@ -1,5 +1,5 @@
 %% signal_analysis.m
-% Author: Your Name
+% Author: Captain Olubambi
 % Purpose: Generate, add noise, and analyze a signal
 % Date: 2026-01-07
 
@@ -40,3 +40,4 @@ ylabel('Magnitude')
 title('Frequency Domain')
 xlim([0 50])   % show up to 50 Hz
 grid on
+
