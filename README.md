@@ -1,0 +1,26 @@
+# Signal Analysis Basics
+
+This project demonstrates how to generate a sine wave, add noise, and analyze it using MATLAB.
+
+## Features
+- Generate sine signals
+- Add Gaussian noise
+- Time-domain plotting
+- Frequency-domain analysis using FFT
+- Automatically saves plots in the `plots/` folder
+
+## Tools Used
+- MATLAB
+
+## How to Run
+1. Open `signal_analysis.m` in MATLAB.
+2. Run the script.
+3. View the plots in MATLAB or check the saved figures in the `plots/` folder.
+
+## What I Learned
+- MATLAB scripting basics
+- Signal generation and analysis
+- Plotting and visualization
+- Saving plots for documentation or portfolio purposes
+
+## Folder Structure
